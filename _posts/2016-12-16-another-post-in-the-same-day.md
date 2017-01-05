@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  又一篇文章
-date:   2016-12-16 17:00:06 +08:00
-tags:   日常 daily test two
-githuber-blog: false
+permalink: /:categories/:year/:month/:day/:title
+excerpt_separator: "<!-- more -->"
+categories: jekyll test
+slug: an-article
 ---
+So I write frequently. ;)
+
+So I write frequently. ;)
+<!-- more -->
+
+So I write frequently. ;)
+
+
+
 So I write frequently. ;)
