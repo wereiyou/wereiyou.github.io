@@ -16,10 +16,12 @@
 title: GitHuber Blog Test
 email: admin@githuber.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Er, I've nothing to say. Just look and work.
+  Never sway in the wind when you have to fly upwind!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wereiyou
+permalink: /:categories/:year/:y_day/:title
+excerpt_separator: "\n\n\n\n"
 
 # Build settings
 markdown: kramdown
